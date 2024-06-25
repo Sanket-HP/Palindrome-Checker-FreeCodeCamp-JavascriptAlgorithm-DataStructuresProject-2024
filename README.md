@@ -25,8 +25,9 @@ Technologies Used
 ## Setup
 Simply clone the repository and open index.html in your web browser to use the palindrome checker.
 
-git clone <repository-url>
-cd <repository-directory>
+- git clone https://github.com/Sanket-HP/Palindrome-Checker-FreeCodeCamp-JavascriptAlgorithm-DataStructuresProject-2024.git
+- cd https://github.com/Sanket-HP/Palindrome-Checker-FreeCodeCamp-JavascriptAlgorithm-DataStructuresProject-2024.git
+
 ## Author
 Sanket Sarjerao More-Patil
 
